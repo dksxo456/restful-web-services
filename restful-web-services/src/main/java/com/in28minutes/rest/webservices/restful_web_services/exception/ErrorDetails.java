@@ -17,7 +17,7 @@ public class ErrorDetails  {
 		return timestamp;
 	}
 	public String getMessage() {
-		return message;
+		return message;//
 	}
 	public String getDetails() {
 		return details;
